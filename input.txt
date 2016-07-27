@@ -1,0 +1,15 @@
+load ()
+quote 1
+cons
+quote 4
+cons
+cur 8
+app
+stop
+dupl
+fst
+swap
+snd
+plus
+return
+stop
